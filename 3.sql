@@ -1,0 +1,1 @@
+SELECT *FROM dbo.employees$ WHERE last_name like '%a%' ORDER BY first_name ASC

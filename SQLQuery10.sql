@@ -1,0 +1,1 @@
+SELECT employees$.first_name, employees$.last_name, jobs$.job_id, departments$.department_id, departments$.department_name FROM employees$ JOIN departments$ ON (departments$.department_id = departments$.department_id) 

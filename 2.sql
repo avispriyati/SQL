@@ -1,0 +1,1 @@
+SELECT *from dbo.employees$ WHERE salary>=7000

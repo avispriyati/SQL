@@ -1,0 +1,1 @@
+SELECT employee_id,first_name, salary FROM employees$ WHERE salary>1000 order by first_name ASC
